@@ -1,0 +1,3 @@
+rootProject.name = 'Last_Cal'
+
+include ':app'
